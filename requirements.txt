@@ -1,0 +1,17 @@
+jupyterlab
+numpy
+scikit-learn
+scipy
+pandas
+matplotlib
+seaborn
+statsmodels
+chromadb
+langchain
+openai
+tiktoken
+tokenizers
+ipywidgets
+python-dotenv
+unstructured
+nltk

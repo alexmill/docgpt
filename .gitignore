@@ -1,0 +1,7 @@
+*.cache*
+*.ipython*
+*.ipynb_checkpoints*
+*.jupyter*
+*.local*
+*.config*
+nltk_data*
